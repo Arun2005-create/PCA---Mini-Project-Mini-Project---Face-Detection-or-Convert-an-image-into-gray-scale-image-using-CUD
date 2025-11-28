@@ -1,8 +1,8 @@
 # PCA-Mini-Project---Face-Detection-or-Convert-an-image-into-gray-scale-image-using-CUD
 Mini Project - Face Detection or Convert an image into gray scale image using CUDA GPU programming
 
-## REG NO : 212223230058
-## NAME : FRANKLIN RAJ G
+## REG NO : 212223230021
+## NAME : ARUN KUMAR B
 
 ## Convert Image to Grayscale image using CUDA
 
